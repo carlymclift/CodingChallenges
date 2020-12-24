@@ -1,0 +1,23 @@
+{
+  "name": "codingchallenges",
+  "version": "1.0.0",
+  "description": "Challenges I got from Code Wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlymclift/CodingChallenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlymclift/CodingChallenges/issues"
+  },
+  "homepage": "https://github.com/carlymclift/CodingChallenges#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
